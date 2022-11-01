@@ -1,0 +1,37 @@
+.recipe-in-progress-header-container {
+  margin-bottom: 30px;
+}
+
+.recipe-in-progress-text {
+  margin-bottom: 30px;
+}
+
+.in-progress-ul {
+  line-height: 1.5em;
+  list-style: none;
+}
+
+.btn-in-progress {
+  margin: 30px 10vw;
+  padding: 5px;
+  width: 80vw;
+}
+
+.recipe-progress-voltar-btn {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 10px;
+  top: 15px;
+  left: 15px;
+  z-index: 2;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(177deg) brightness(104%) contrast(101%);
+}
+
+.recipe-progress-voltar-btn:hover {
+  background-color: transparent;
+  filter: invert(100%) sepia(100%) saturate(2%) hue-rotate(177deg) brightness(104%) contrast(101%);
+}
